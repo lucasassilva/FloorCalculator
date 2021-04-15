@@ -1,4 +1,4 @@
-# Floor_calculator
+# FloorCalculator
 
 A new Flutter project.
 
